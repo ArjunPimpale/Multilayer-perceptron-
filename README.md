@@ -1,0 +1,1 @@
+A neural network algorithm implemented from scratch in Python, featuring a Multilayer Perceptron (MLP) architecture. This project demonstrates foundational concepts of neural networks without relying on external libraries.
